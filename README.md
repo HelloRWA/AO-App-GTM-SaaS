@@ -7,9 +7,9 @@ AO App go-to-market SaaS
 - [AO-Snake](https://ao-snake.rwa-wallet.com)
 - [uni-bridge](https://ub.rwa-wallet.com)
 - [PDF Deck](./ao-app-gtm-saas.pdf)
-- [video](https://www.loom.com/share/65cfebf614184058b968b163c5561780)
+- [Video Demo](https://www.loom.com/share/65cfebf614184058b968b163c5561780)
 
-*We do not share the frontend code here as we are not ready to open-source it.*
+_We do not share the frontend code here as we are not ready to open-source it._
 
 ## Features
 
@@ -133,3 +133,17 @@ return {
 ### Conclusion
 
 I hope this pattern can help developers to build their ao lua contract in a unified way, so they can focus on their business logic. And other developers can review the code easily.
+
+## Screenshot
+
+### Launchpad overview
+
+![s-1](./s-1.png)
+
+### Buy app token
+
+![s-2](./s-2.png)
+
+### Buy invite code
+
+![s-3](./s-3.png)
